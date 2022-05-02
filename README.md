@@ -1,3 +1,5 @@
+# Atividades da Trybe
+
 Neste repositório constam todas as atividades realizadas por Aline Valadão enquanto estudante da Trybe.
 
 A Trybe é uma escola de desenvolvimento web que conta com 
