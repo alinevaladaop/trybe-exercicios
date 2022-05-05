@@ -1,4 +1,6 @@
 Unix
 Bash
 Git
-javascript
+JavaScript
+HTML
+CSS
