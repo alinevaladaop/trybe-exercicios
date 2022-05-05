@@ -1,4 +1,4 @@
-# Exercício 01 - Git e Github
+# Exercício 01 e 02 - Git e Github
 
 Aqui estão armazenados alguns dos conteúdos que serão estudados no decorrer do curso da Trybe.
 
