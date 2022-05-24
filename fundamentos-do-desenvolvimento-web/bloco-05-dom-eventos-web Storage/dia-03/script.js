@@ -42,3 +42,27 @@ function createDaysOfTheWeek() {
   }
 
   dezDaysList()
+
+  function createButton(Feriados){
+    let button = document.querySelector(".buttons-container");
+    let putButton = document.createElement("button");
+    let newButtonId = "btn-holiday";
+    
+
+    putButton.innerText = Feriados;
+    button.id = newButtonId;
+    button.appendChild(putButton);
+  }
+
+  createButton("Feriados");
+ 
+
+  // let putClick = document.querySelector (".holiday");
+  // putClick.addEventListener ("click", clicar)
+  
+  // function clicar (){
+  //   putClick.style.background = "red"
+
+  // }
+
+  // clicar()
